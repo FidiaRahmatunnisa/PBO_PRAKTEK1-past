@@ -26,3 +26,10 @@ syarat semua variabel didalam void / prosedur tersebut juga pubic static.
 
 3.String[] args adalah sebuah array dalam bentuk String yang menyimpan arguments 
 yang di passing melalui command line ketika mengeksekusi program
+
+4.System.out.println merupakan method  satu dari beberapa cara untuk mencetak sesuatu di layar konsol,
+atau yang kita sebut sebagai sistem output.Selain method ini sebenarnya masih ada cara lainnya.
+Secara umum terdapat 3 method untuk menampilkan output pada Java yaitu:
+.System.out.print — Mencetak tanpa pindah baris
+.System.out.println — Mencetak dengan pindah baris
+.System.out.printf — Mencetak dengan format tertentu
