@@ -1,4 +1,4 @@
-# PBO_Fidia-Rahmatunnisa
+# Modul3
  
  pada kodingan pertama yaitu class dengan nama FidiaRahamatunnisa,
  disusun atas syntaks public class, public static void,lalu method 
