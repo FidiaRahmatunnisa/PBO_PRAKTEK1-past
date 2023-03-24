@@ -1,6 +1,6 @@
 # Modul3
  
- pada kodingan pertama yaitu class dengan nama FidiaRahamatunnisa,
+ pada kodingan pertama yaitu class dengan nama Fidi_aRahamatunnisa,
  disusun atas syntaks public class, public static void,lalu method 
  berupa output sebuah kalimat.
  
@@ -9,7 +9,7 @@
  yaitu : public class, public static void,method berupa output 4 buah kalimat
  
  dikarenakan susunan yang sama maka dari itu penjelasan ini akan disederhanakan:
- 
+
 1. public adalah sebuah keyword di Java yang menandakan bahwa objek,
 method, atau atribut dapat diakses dari class lain.
 
