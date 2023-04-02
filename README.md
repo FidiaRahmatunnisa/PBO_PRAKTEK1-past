@@ -1,4 +1,5 @@
 #modul 5 dan 6
+
 pada modul 5 terdapat paket java input berupa buffered dan JOptionPane,
 Fungsi paket Buffered pada Java adalah untuk meningkatkan efisiensi operasi masukan/keluaran pada program dengan menyimpan data sementara (buffer) di dalam memori.
 Paket Buffered menyediakan kelas-kelas seperti BufferedReader dan BufferedWriter, yang masing-masing membungkus kelas Reader dan Writer bawaan Java. Dengan menggunakan kelas-kelas ini, kita dapat membaca atau menulis data secara buffered, artinya data akan disimpan terlebih dahulu di dalam buffer sebelum dikirim ke perangkat masukan atau keluaran.
